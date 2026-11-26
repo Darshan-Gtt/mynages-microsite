@@ -1,0 +1,51 @@
+/* Mynages brand tokens — approved identity */
+:root {
+  --navy: #0f2d3d;
+  --navy-800: #143a4e;
+  --navy-700: #1d4b63;
+  --navy-600: #2b5d78;
+  --teal: #14b8a6;
+  --teal-600: #0e9384;
+  --teal-700: #0b7a6e;
+  --teal-100: #ccf3ee;
+  --teal-50: #e8faf7;
+  --yellow: #f4c76b;
+  --yellow-600: #d9a73f;
+  --yellow-100: #fdf1d6;
+  --gray: #eaf1f4;
+  --gray-50: #f5f9fa;
+
+  --ink: #0f2d3d;
+  --ink-2: #3d5866;
+  --ink-3: #6b8390;
+  --line: #d8e4e9;
+  --line-2: #e6eef1;
+  --surface: #ffffff;
+  --bg: #f7fafb;
+
+  --success: #12a150;
+  --success-bg: #e3f6ea;
+  --warning: #b7791f;
+  --warning-bg: #fdf1d6;
+  --danger: #d64545;
+  --danger-bg: #fde8e8;
+  --info: #2b7bb9;
+  --info-bg: #e4f0fa;
+
+  --font: 'Poppins', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+
+  --r-sm: 8px;
+  --r-md: 12px;
+  --r-lg: 18px;
+  --r-xl: 26px;
+  --r-pill: 999px;
+
+  --sh-sm: 0 1px 2px rgba(15, 45, 61, 0.06), 0 1px 3px rgba(15, 45, 61, 0.05);
+  --sh-md: 0 6px 18px rgba(15, 45, 61, 0.08);
+  --sh-lg: 0 18px 48px rgba(15, 45, 61, 0.14);
+  --sh-teal: 0 10px 24px rgba(20, 184, 166, 0.28);
+
+  --container: 1200px;
+  --header-h: 72px;
+  --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+}
